@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/LoggerApp.dir/link.d CMakeFiles/LoggerApp.dir/main.cpp.o -o LoggerApp  ../logger/libLoggerStatic.a
