@@ -1,0 +1,14 @@
+/home/max/Desktop/infotecstz/LoggerProject/build/CMakeFiles/edit_cache.dir
+/home/max/Desktop/infotecstz/LoggerProject/build/CMakeFiles/rebuild_cache.dir
+/home/max/Desktop/infotecstz/LoggerProject/build/app_stats/CMakeFiles/LoggerStatsApp.dir
+/home/max/Desktop/infotecstz/LoggerProject/build/app_stats/CMakeFiles/edit_cache.dir
+/home/max/Desktop/infotecstz/LoggerProject/build/app_stats/CMakeFiles/rebuild_cache.dir
+/home/max/Desktop/infotecstz/LoggerProject/build/logger/CMakeFiles/LoggerStatic.dir
+/home/max/Desktop/infotecstz/LoggerProject/build/logger/CMakeFiles/edit_cache.dir
+/home/max/Desktop/infotecstz/LoggerProject/build/logger/CMakeFiles/rebuild_cache.dir
+/home/max/Desktop/infotecstz/LoggerProject/build/app/CMakeFiles/LoggerApp.dir
+/home/max/Desktop/infotecstz/LoggerProject/build/app/CMakeFiles/edit_cache.dir
+/home/max/Desktop/infotecstz/LoggerProject/build/app/CMakeFiles/rebuild_cache.dir
+/home/max/Desktop/infotecstz/LoggerProject/build/tests/CMakeFiles/LoggerTests.dir
+/home/max/Desktop/infotecstz/LoggerProject/build/tests/CMakeFiles/edit_cache.dir
+/home/max/Desktop/infotecstz/LoggerProject/build/tests/CMakeFiles/rebuild_cache.dir

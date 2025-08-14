@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLoggerStatic.a CMakeFiles/LoggerStatic.dir/src/Logger.cpp.o
+/usr/bin/ranlib libLoggerStatic.a
