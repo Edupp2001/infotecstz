@@ -51,7 +51,4 @@ exit
 - C++17
 - CMake >= 3.10
 - gcc/g++
-# infotecstz
-# infotecstz
-# infotecstz
-# infotecstz
+
